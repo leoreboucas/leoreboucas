@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Frontend
 - 🌱 Domino HTML/CSS/JS, Typescript, ReactJS/Redux, styled-components
-- 📫 Como me contatar: [LinkedIn](https://www.linkedin.com/in/leoreboucas/), [Gmail](leoabcblm@gmail.com)
+- 📫 Como me contatar: [LinkedIn](https://www.linkedin.com/in/leoreboucas/), [Gmail](mailto:leoabcblm@gmail.com)
 - 😄 Pronouns: HE/HIM
 
 <div align="center">
