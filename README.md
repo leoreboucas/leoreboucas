@@ -1,7 +1,7 @@
 ### Olá, eu sou Leonardo Rebouças 👋
 
-- 🔭 Hoje trabalho como Frontend
-- 🌱 Domino HTML/CSS/JS, Typescript, ReactJS/Redux, styled-components
+- 🔭 Hoje trabalho como Backend
+- 🌱 Domino NodeJS, Express, MongoDB, MySQL, Javascript, ReactJS
 - 📫 Como me contatar: [LinkedIn](https://www.linkedin.com/in/leoreboucas/), [Gmail](mailto:leoabcblm@gmail.com)
 - 😄 Pronouns: HE/HIM
 
