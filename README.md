@@ -1,35 +1,36 @@
-### Olá, eu sou Leonardo Rebouças 👋
+# Olá, eu sou [Seu Nome] 👨‍💻
 
-- 🔭 Hoje trabalho como Backend
-- 🌱 Domino NodeJS, Express, MongoDB, MySQL, Javascript, ReactJS
-- 📫 Como me contatar: [LinkedIn](https://www.linkedin.com/in/leoreboucas/), [Gmail](mailto:leoabcblm@gmail.com)
-- 😄 Pronouns: HE/HIM
+Desenvolvedor Backend com foco em engenharia de software e entrega de valor sustentável. Atuo com propriedade nos ecossistemas **Node.js (TypeScript)** e **Java (Spring Boot)**, aplicando cada tecnologia conforme a demanda arquitetural do projeto. Minha abordagem é guiada por uma premissa clara: *linguagens são ferramentas; o foco principal deve ser a arquitetura, a integridade dos dados e a solução do negócio*.
 
-<div align="center">
-  <a href="https://github.com/leoreboucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoreboucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoreboucas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Leo-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Leo-pic" height="150" style="border-radius:50%;" src="https://avatars.githubusercontent.com/u/98988784?s=400&u=4635d70086267a7e108d9f79dee8c9811ee0d689&v=4?width=676&height=676">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:leoabcblm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leoreboucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/leoreboucas/leoreboucas/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
- 
+Construo sistemas resilientes, escaláveis e alinhados às necessidades reais do mercado, com experiência prática em ciclos de desenvolvimento ágeis e disponibilidade para atuar em modelos remotos.
+
+---
+
+## 🧠 Princípios de Engenharia
+- **Arquitetura em primeiro lugar:** Aplicação rigorosa de Clean Architecture e princípios SOLID para garantir separação de responsabilidades, baixo acoplamento e evolução segura do código.
+- **Código resiliente e testável:** Desenvolvimento orientado a testes, com cobertura estratégica, tratamento explícito de falhas e foco em manutenibilidade a longo prazo.
+- **Integrações robustas:** Experiência sólida na construção de APIs RESTful, modelagem de domínios complexos e integração eficiente com bancos relacionais e não relacionais.
+
+---
+
+## 🛠️ Stack & Tecnologias
+| Categoria | Tecnologias & Ferramentas |
+|-----------|---------------------------|
+| **Linguagens** | Java, TypeScript |
+| **Frameworks & Runtimes** | Spring Boot, Node.js |
+| **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Testes & Qualidade** | JUnit, Jest, Mockito, Testcontainers |
+| **Ferramentas & DevOps** | Git, Docker, GitHub Actions, CI/CD, Postman |
+
+---
+
+## 🎓 Formação Acadêmica
+- **Pós-graduação em Desenvolvimento Web** | Instituto Federal da Bahia (IFBA) | *Em andamento*
+- **Bacharelado em Análise e Desenvolvimento de Sistemas** | *Concluído em 2025*
+
+---
+
+## 📫 Contato
+Estou aberto a oportunidades remotas onde possa aplicar engenharia de software de ponta a ponta. Vamos conversar.
+
+🔗 [LinkedIn](https://linkedin.com/in/seu-perfil) | ✉️ [E-mail](mailto:seu.email@dominio.com) | 💻 [GitHub](https://github.com/seu-usuario)
