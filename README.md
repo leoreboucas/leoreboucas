@@ -21,7 +21,7 @@ Possuo também conhecimentos práticos em Frontend com **ReactJS, Tailwind CSS e
 | **Backend** | Spring Boot, Node.js, ExpressJS |
 | **Frontend** | React, Tailwind CSS, Styled Components |
 | **Bancos de Dados** | PostgreSQL, MySQL, MongoDB, SQLite |
-| **Testes & Qualidade** | Jest |
+| **Testes & Qualidade** | Jest, Mockito, TestContainers, JUnit |
 | **Ferramentas & DevOps** | Git, Docker, Postman |
 
 ---
